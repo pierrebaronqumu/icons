@@ -3,6 +3,7 @@ title: Person badge fill
 categories:
   - People
 tags:
+  - member
   - human
   - individual
   - avatar
@@ -10,4 +11,5 @@ tags:
   - badge
   - id
   - card
+  - account
 ---

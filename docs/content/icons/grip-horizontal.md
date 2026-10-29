@@ -1,8 +1,7 @@
 ---
 title: Grip horizontal
-layout: icon
 categories:
-  - UI and keyboard
+  - UI & Keyboard
 tags:
   - drag
   - grab

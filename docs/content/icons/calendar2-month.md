@@ -1,8 +1,7 @@
 ---
 title: Calendar2 month
-layout: icon
 categories:
-  - Date and time
+  - Date & Time
 tags:
   - date
   - time

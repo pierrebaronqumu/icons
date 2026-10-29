@@ -1,8 +1,7 @@
 ---
 title: Cloud slash
-layout: icon
 categories:
-  - Clouds
+  - Weather
 tags:
   - cloud
 ---

@@ -1,8 +1,7 @@
 ---
 title: Caret down square
-layout: icon
 categories:
-  - Carets
+  - Arrows
 tags:
   - caret
   - arrow

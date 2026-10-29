@@ -1,7 +1,8 @@
 ---
 title: Question circle
 categories:
-  - Alerts, warnings, and signs
+  - Alerts & Status
 tags:
   - help
+  - unknown
 ---

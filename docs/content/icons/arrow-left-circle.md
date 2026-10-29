@@ -1,8 +1,7 @@
 ---
 title: Arrow left circle
-layout: icon
 categories:
-  - Shape Arrows
+  - Arrows
 tags:
   - arrow
   - circle

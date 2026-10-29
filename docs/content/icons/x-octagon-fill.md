@@ -1,10 +1,11 @@
 ---
 title: X octagon fill
 categories:
-  - Alerts, warnings, and signs
+  - Alerts & Status
 tags:
   - x
   - delete
+  - remove
   - reset
   - clear
   - cancel

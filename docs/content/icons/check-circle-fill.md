@@ -1,8 +1,7 @@
 ---
 title: Check circle fill
-layout: icon
 categories:
-  - Alerts, warnings, and signs
+  - Alerts & Status
 tags:
   - checkmark
   - confirm

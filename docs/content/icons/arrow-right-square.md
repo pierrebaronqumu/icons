@@ -1,8 +1,7 @@
 ---
 title: Arrow right square
-layout: icon
 categories:
-  - Shape Arrows
+  - Arrows
 tags:
   - arrow
   - square

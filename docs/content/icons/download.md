@@ -1,8 +1,9 @@
 ---
 title: Download
 categories:
-  - Miscellaneous
+  - Files & Folders
 tags:
   - arrow
   - network
+  - save
 ---

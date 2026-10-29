@@ -1,8 +1,7 @@
 ---
 title: Calendar day
-layout: icon
 categories:
-  - Date and time
+  - Date & Time
 tags:
   - date
   - time

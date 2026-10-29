@@ -1,7 +1,8 @@
 ---
 title: Chevron right
 categories:
-  - Chevrons
+  - Arrows
 tags:
   - chevron
+  - math
 ---

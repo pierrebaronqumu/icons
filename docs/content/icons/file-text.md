@@ -1,8 +1,9 @@
 ---
 title: File text
 categories:
-  - Files and folders
+  - Files & Folders
 tags:
   - doc
   - document
+  - letter
 ---

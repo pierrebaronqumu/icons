@@ -1,11 +1,10 @@
 ---
 title: Hand thumbs down
-layout: icon
 categories:
-  - Hands
+  - People
 tags:
   - hand
   - pointer
   - thumbs-down
-  - "-1"
+  - -1
 ---

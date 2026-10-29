@@ -1,8 +1,9 @@
 ---
 title: Cloud plus fill
 categories:
-  - Clouds
+  - Weather
 tags:
   - add
   - new
+  - upload
 ---

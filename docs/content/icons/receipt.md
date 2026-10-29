@@ -1,6 +1,5 @@
 ---
 title: Receipt
-layout: icon
 categories:
   - Commerce
 tags:
@@ -8,4 +7,5 @@ tags:
   - invoice
   - sale
   - purchase
+  - bill
 ---

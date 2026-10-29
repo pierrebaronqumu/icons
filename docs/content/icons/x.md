@@ -1,13 +1,15 @@
 ---
 title: X
 categories:
-  - Alerts, warnings, and signs
+  - Alerts & Status
 tags:
   - x
   - delete
+  - remove
   - reset
   - clear
   - cancel
   - close
   - exit
+  - math
 ---

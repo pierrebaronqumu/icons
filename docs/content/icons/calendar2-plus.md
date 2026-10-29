@@ -1,8 +1,7 @@
 ---
 title: Calendar2 plus
-layout: icon
 categories:
-  - Date and time
+  - Date & Time
 tags:
   - date
   - time

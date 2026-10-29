@@ -1,8 +1,9 @@
 ---
 title: File earmark
 categories:
-  - Files and folders
+  - Files & Folders
 tags:
   - doc
   - document
+  - page
 ---

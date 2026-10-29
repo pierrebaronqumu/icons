@@ -1,32 +1,36 @@
-const codepoints = require('./font/bootstrap-icons.json');
+'use strict'
+
+const codepoints = require('./font/bootstrap-icons.json')
 
 module.exports = {
-  inputDir: './icons', // (required)
-  outputDir: './font', // (required)
+  inputDir: './icons',
+  outputDir: './font',
   fontTypes: ['woff2', 'woff'],
-  assetTypes: ['css', 'json', 'html'],
+  assetTypes: ['css', 'scss', 'json', 'ts'],
   name: 'bootstrap-icons',
-  codepoints: codepoints,
+  codepoints,
   prefix: 'bi',
   selector: '.bi',
   fontsUrl: './fonts',
   formatOptions: {
     json: {
       indent: 2
+    },
+    ts: {
+      types: ['literalId']
     }
   },
-  // Use a custom Handlebars template
+  // Use our custom Handlebars templates
   templates: {
     css: './build/font/css.hbs',
-    html: './build/font/html.hbs'
+    scss: './build/font/scss.hbs'
   },
   pathOptions: {
     json: './font/bootstrap-icons.json',
     css: './font/bootstrap-icons.css',
-    html: './font/index.html',
-    ttf: './font/fonts/bootstrap-icons.ttf',
+    scss: './font/bootstrap-icons.scss',
     woff: './font/fonts/bootstrap-icons.woff',
     woff2: './font/fonts/bootstrap-icons.woff2',
-    eot: './font/fonts/bootstrap-icons.eot'
+    ts: './font/bootstrap-icons.ts'
   }
-};
+}

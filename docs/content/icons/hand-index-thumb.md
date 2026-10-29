@@ -1,8 +1,7 @@
 ---
 title: Hand index thumb
-layout: icon
 categories:
-  - Hands
+  - People
 tags:
   - hand
   - pointer

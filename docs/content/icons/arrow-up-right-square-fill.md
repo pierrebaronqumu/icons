@@ -1,8 +1,7 @@
 ---
 title: Arrow up right square fill
-layout: icon
 categories:
-  - Shape Arrows
+  - Arrows
 tags:
   - arrow
   - square

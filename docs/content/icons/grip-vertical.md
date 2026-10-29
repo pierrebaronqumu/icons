@@ -1,8 +1,7 @@
 ---
 title: Grip vertical
-layout: icon
 categories:
-  - UI and keyboard
+  - UI & Keyboard
 tags:
   - drag
   - grab

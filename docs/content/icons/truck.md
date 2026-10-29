@@ -1,6 +1,5 @@
 ---
 title: Truck
-layout: icon
 categories:
   - Commerce
 tags:
@@ -10,4 +9,5 @@ tags:
   - transport
   - deliver
   - delivery
+  - vehicle
 ---
